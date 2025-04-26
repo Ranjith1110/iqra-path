@@ -10957,12 +10957,16 @@ h6,
 }
 
 .btn-icon {
-  width: 77px;
-  height: 77px;
+  width: 56px;
+  height: 56px;
   display: flex;
   align-items: center;
   justify-content: center;
   flex-shrink: 0;
+}
+
+.btn-icon i {
+  font-size: 24px;
 }
 
 .back-to-top {
@@ -10994,7 +10998,7 @@ h6,
 }
 
 .jumbotron {
-  background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, 1)), url(../img/header.jpg), no-repeat center center;
+  background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, 1)), url(../img/header.jpeg), no-repeat center center;
   background-size: cover;
   background-position: center;
 }
