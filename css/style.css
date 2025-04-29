@@ -10998,7 +10998,7 @@ h6,
 }
 
 .jumbotron {
-  background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, 1)), url(../img/header.jpeg), no-repeat center center;
+  background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, 1)), url(../img/img-1.jpeg), no-repeat center center;
   background-size: cover;
   background-position: center;
 }
@@ -11361,7 +11361,7 @@ h6,
 
 /*** About ***/
 .about {
-  background: linear-gradient(rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url(/img/header.jpeg) left center no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url(/img/img-2.jpeg) left center no-repeat;
   background-size: cover;
 }
 
